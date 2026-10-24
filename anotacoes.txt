@@ -1,0 +1,3 @@
+Estas são as anotações da minha pratica.
+Nesta pratica, vamos aprender a como fazer commit.
+Tambem vamos a aprender a criar mensagem semânticas.
